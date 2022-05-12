@@ -4,6 +4,7 @@
   "description": "### Description",
   "main": "server.js",
   "scripts": {
+    "start": "npm start server.js",
     "webpack": "webpack --watch",
     "build": "webpack",
     "start:dev": "webpack-dev-server",
@@ -21,7 +22,6 @@
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
     "popper.js": "^1.16.0",
-    "node": "17.4.0",
     "save": "^2.4.0"
   },
   "devDependencies": {
