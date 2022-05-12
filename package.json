@@ -4,7 +4,6 @@
   "description": "### Description",
   "main": "server.js",
   "scripts": {
-    "start": "npm start server.js",
     "webpack": "webpack --watch",
     "build": "webpack",
     "start:dev": "webpack-dev-server",
